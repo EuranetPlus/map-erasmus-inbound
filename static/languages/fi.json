@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka monta EU:n kansalaista osallistuu ERASMUS-ohjelmaan?",
+  "subtitle": "Vuonna 2024 noin 1,3 miljoonaa oppijaa tai henkilökuntaan kuuluvaa EU-maista matkusti toiseen EU-maahan ERASMUS-ohjelman ansiosta.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Luvut osoittavat ERASMUS-ohjelmaan osallistuneiden ulkomaisten opiskelijoiden tai henkilöstön jäsenten määrän.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Erasmus (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "tuhat",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
